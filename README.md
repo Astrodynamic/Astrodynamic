@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Astrodynamic
 - 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning С programming language.
+- 🌱 I’m currently learning С/C++ programming language.
 - 💞️ I’m looking to collaborate on to gain experience in various areas of programming,
 - in order to gain enough knowledge to work and solve interesting problems.
 - 📫 How to reach me https://t.me/Astrodynamicfkg
