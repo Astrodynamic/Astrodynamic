@@ -50,6 +50,8 @@
     <img src="https://github.r2v.ch/codewars?user=FKG&stroke=COLOR"/>
 </div>
 
+---
+
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/Astrodynamicfkg">
