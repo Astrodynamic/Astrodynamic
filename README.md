@@ -1,17 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://t.me/Astrodynamicfkg">
-    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2FAstrodynamicfkg">
-  </a>
-</div>
-<div id="views" align="center">
-  <img  src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62" alt="header" style="width: 100%;">
 
 ---
 
@@ -56,3 +43,13 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Astrodynamic&theme=dark&card_width=1280)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astrodynamic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+<div id="badges" align="center">
+  <a href="https://t.me/Astrodynamicfkg">
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%2FAstrodynamicfkg">
+  </a>
+</div>
+<div id="views" align="center">
+  <img  src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
