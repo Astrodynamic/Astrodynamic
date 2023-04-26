@@ -44,6 +44,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astrodynamic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### <img height="16" width="35" src="https://cdn.simpleicons.org/codewars" />My Stats on CodeWars:
+
+<div id="badges" align="center">
+    <img src="https://github.r2v.ch/codewars?user=FKG&stroke=COLOR"/>
+</div>
+
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/Astrodynamicfkg">
