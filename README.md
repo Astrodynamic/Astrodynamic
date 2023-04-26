@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - Python3: highly skilled in creating and utilizing scripts for task automation, data analysis, and machine learning.
 - C/C++: strong understanding and utilized for various projects, including the development of Qt applications.
 - Qt: proficient in using for GUI development and created several applications using this technology.
