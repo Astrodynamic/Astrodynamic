@@ -42,13 +42,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Astrodynamic&theme=dark&card_width=1280)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astrodynamic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### <img height="16" width="35" src="https://cdn.simpleicons.org/codewars" />My Stats on CodeWars:
-
-<div id="badges" align="center">
-    <img src="https://github.r2v.ch/codewars?user=FKG&stroke=COLOR"/>
-</div>
+|<img height="16" width="35" src="https://cdn.simpleicons.org/codewars" />My Stats on CodeWars:|Top Languages|
+|:------------:|:-----------:|
+|![Leetcode Stats](https://github.r2v.ch/codewars?user=FKG&stroke=COLOR)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astrodynamic&layout=compact&theme=vision-friendly-dark)|
 
 ---
 
