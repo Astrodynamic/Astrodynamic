@@ -2,22 +2,24 @@
 
 ---
 
-### :woman_technologist: About my skills and abilities :
+<h3 align="center">:woman_technologist: About my skills and abilities</h3>
 
-- Python3: highly skilled in creating and utilizing scripts for task automation, data analysis, and machine learning.
+- Python3: skilled in creating and utilizing scripts for task automation, data analysis, and machine learning.
 - C/C++: strong understanding and utilized for various projects, including the development of Qt applications.
 - Qt: proficient in using for GUI development and created several applications using this technology.
-- Git: highly proficient in using for version control and collaboration on projects.
+- Git: proficient in using for version control and collaboration on projects.
 - QML: experienced in using for developing user interfaces for Qt applications.
-- SQL: strong understanding and utilized for database management in various projects.
+- SQL: understanding and utilized for database management in various projects.
 - OpenGL: experience in utilizing for graphics programming and created several 3D applications using this technology.
 - DevOps: experienced in utilizing tools and methodologies for continuous integration and deployment of software.
 - CMake: proficient in using for building and managing complex software projects.
-- Linux: highly skilled in using as an operating system and utilized it for various projects.
+- Linux: skilled in using as an operating system and utilized it for various projects.
 - PostgreSQL: experience in utilizing for database management in various projects.
-- Bash: highly proficient in using for shell scripting and task automation.
+- Bash: proficient in using for shell scripting and task automation.
 
-### :hammer_and_wrench: Languages and Tools :
+---
+
+<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
@@ -38,13 +40,19 @@
 
 ---
 
-### :fire: My Stats :
+<h3 align="center">:fire: My Stats</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Astrodynamic&theme=dark&card_width=1280)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://metrics.lecoq.io/Astrodynamic?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" />
+</p>
 
-|<img height="16" width="35" src="https://cdn.simpleicons.org/codewars" />My Stats on CodeWars:|Top Languages|
-|:------------:|:-----------:|
-|![Leetcode Stats](https://github.r2v.ch/codewars?user=FKG&stroke=COLOR)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astrodynamic&layout=compact&theme=vision-friendly-dark)|
+<div align="center">
+  <div>
+    <img height="16" width="35" src="https://cdn.simpleicons.org/codewars" />
+    My Stats on CodeWars:
+  </div>
+  <img src="https://github.r2v.ch/codewars?user=FKG&stroke=COLOR" />
+</div>
 
 ---
 
@@ -57,3 +65,7 @@
 <div id="views" align="center">
   <img  src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
+
+
+
+
