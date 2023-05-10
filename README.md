@@ -5,18 +5,18 @@
 <h3 align="center">:woman_technologist: About my skills and abilities</h3>
 
 <ul>
-  <li><font color="#3572A5">Python3:</font> Skilled in creating and utilizing scripts for task automation, data analysis, and machine learning.</li>
-  <li><span style="color: #F34B7D;">C/C++:</span> Strong understanding and utilized for various projects, including the development of Qt applications.</li>
-  <li><span style="color: #41CD52;">Qt:</span> Proficient in using for GUI development and created several applications using this technology.</li>
-  <li><span style="color: #F1502F;">Git:</span> Proficient in using for version control and collaboration on projects.</li>
-  <li><span style="color: #F7D41D;">QML:</span> Experienced in using for developing user interfaces for Qt applications.</li>
-  <li><span style="color: #336791;">SQL:</span> Understanding and utilized for database management in various projects.</li>
-  <li><span style="color: #1C75BC;">OpenGL:</span> Experience in utilizing for graphics programming and created several 3D applications using this technology.</li>
-  <li><span style="color: #FF7400;">DevOps:</span> Experienced in utilizing tools and methodologies for continuous integration and deployment of software.</li>
-  <li><span style="color: #064F8C;">CMake:</span> Proficient in using for building and managing complex software projects.</li>
-  <li><span style="color: #D71920;">Linux:</span> Skilled in using as an operating system and utilized it for various projects.</li>
-  <li><span style="color: #336791;">PostgreSQL:</span> Experience in utilizing for database management in various projects.</li>
-  <li><span style="color: #4EAA25;">Bash:</span> Proficient in using for shell scripting and task automation.</li>
+  <li><font color="#3572A5"><b>Python3:</b></font> Skilled in creating and utilizing scripts for task automation, data analysis, and machine learning.</li>
+  <li><font color="#F34B7D"><b>C/C++:</b></font> Strong understanding and utilized for various projects, including the development of Qt applications.</li>
+  <li><font color="#41CD52"><b>Qt:</b></font> Proficient in using for GUI development and created several applications using this technology.</li>
+  <li><font color="#F1502F"><b>Git:</b></font> Proficient in using for version control and collaboration on projects.</li>
+  <li><font color="#F7D41D"><b>QML:</b></font> Experienced in using for developing user interfaces for Qt applications.</li>
+  <li><font color="#336791"><b>SQL:</b></font> Understanding and utilized for database management in various projects.</li>
+  <li><font color="#1C75BC"><b>OpenGL:</b></font> Experience in utilizing for graphics programming and created several 3D applications using this technology.</li>
+  <li><font color="#FF7400"><b>DevOps:</b></font> Experienced in utilizing tools and methodologies for continuous integration and deployment of software.</li>
+  <li><font color="#064F8C"><b>CMake:</b></font> Proficient in using for building and managing complex software projects.</li>
+  <li><font color="#D71920"><b>Linux:</b></font> Skilled in using as an operating system and utilized it for various projects.</li>
+  <li><font color="#336791"><b>PostgreSQL:</b></font> Experience in utilizing for database management in various projects.</li>
+  <li><font color="#4EAA25"><b>Bash:</b></font> Proficient in using for shell scripting and task automation.</li>
 </ul>
 
 ---
