@@ -4,18 +4,20 @@
 
 <h3 align="center">:woman_technologist: About my skills and abilities</h3>
 
-- Python3: skilled in creating and utilizing scripts for task automation, data analysis, and machine learning.
-- C/C++: strong understanding and utilized for various projects, including the development of Qt applications.
-- Qt: proficient in using for GUI development and created several applications using this technology.
-- Git: proficient in using for version control and collaboration on projects.
-- QML: experienced in using for developing user interfaces for Qt applications.
-- SQL: understanding and utilized for database management in various projects.
-- OpenGL: experience in utilizing for graphics programming and created several 3D applications using this technology.
-- DevOps: experienced in utilizing tools and methodologies for continuous integration and deployment of software.
-- CMake: proficient in using for building and managing complex software projects.
-- Linux: skilled in using as an operating system and utilized it for various projects.
-- PostgreSQL: experience in utilizing for database management in various projects.
-- Bash: proficient in using for shell scripting and task automation.
+<ul>
+  <li><font color="#3572A5">Python3:</font> Skilled in creating and utilizing scripts for task automation, data analysis, and machine learning.</li>
+  <li><span style="color: #F34B7D;">C/C++:</span> Strong understanding and utilized for various projects, including the development of Qt applications.</li>
+  <li><span style="color: #41CD52;">Qt:</span> Proficient in using for GUI development and created several applications using this technology.</li>
+  <li><span style="color: #F1502F;">Git:</span> Proficient in using for version control and collaboration on projects.</li>
+  <li><span style="color: #F7D41D;">QML:</span> Experienced in using for developing user interfaces for Qt applications.</li>
+  <li><span style="color: #336791;">SQL:</span> Understanding and utilized for database management in various projects.</li>
+  <li><span style="color: #1C75BC;">OpenGL:</span> Experience in utilizing for graphics programming and created several 3D applications using this technology.</li>
+  <li><span style="color: #FF7400;">DevOps:</span> Experienced in utilizing tools and methodologies for continuous integration and deployment of software.</li>
+  <li><span style="color: #064F8C;">CMake:</span> Proficient in using for building and managing complex software projects.</li>
+  <li><span style="color: #D71920;">Linux:</span> Skilled in using as an operating system and utilized it for various projects.</li>
+  <li><span style="color: #336791;">PostgreSQL:</span> Experience in utilizing for database management in various projects.</li>
+  <li><span style="color: #4EAA25;">Bash:</span> Proficient in using for shell scripting and task automation.</li>
+</ul>
 
 ---
 
@@ -46,6 +48,8 @@
   <img src="https://metrics.lecoq.io/Astrodynamic?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" />
 </p>
 
+---
+
 <div align="center">
   <div>
     <img height="16" width="35" src="https://cdn.simpleicons.org/codewars" />
@@ -65,7 +69,3 @@
 <div id="views" align="center">
   <img  src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
-
-
-
-
