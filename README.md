@@ -34,7 +34,7 @@
 <h3 align="center">:fire: My Stats</h3>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Astrodynamic?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FMoscow" />
+  <img src="/github-metrics.svg" alt="Metrics">
 </p>
 
 ---
